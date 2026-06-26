@@ -43,7 +43,4 @@ pystack-learn/
 - [ ] FastAPI
 - [ ] SQL
 - [ ] Full Stack CRUD Project
-
-
-
-Build full-stack applications using React, FastAPI, and SQL while documenting the complete learning.
+ 
