@@ -1,6 +1,6 @@
-# PyStack Learn
+# PyStack Learn 
 
-A repository to document learning of Python Full Stack Development.
+A repository documenting my journey of learning modern Python Full Stack Development from scratch.
 
 ## Tech Stack
 
@@ -9,10 +9,10 @@ A repository to document learning of Python Full Stack Development.
 - JavaScript
 - Vite
 
-### Backend (Upcoming)
+### Backend *(Upcoming)*
 - FastAPI
 
-### Database (Upcoming)
+### Database *(Upcoming)*
 - SQL
 - SQLite
 - PostgreSQL
@@ -30,17 +30,26 @@ pystack-learn/
 ```
 
 ## Learning 
- 
+
+- [x] Git & GitHub
 - [x] React Project Setup
+- [x] First React Component
 - [ ] JSX
 - [ ] Components
 - [ ] Props
-- [ ] useState
+- [ ] State (useState)
 - [ ] Event Handling
+- [ ] Conditional Rendering
+- [ ] Lists
 - [ ] Forms
-- [ ] React Router
+- [ ] useEffect
 - [ ] API Integration
+- [ ] React Router
 - [ ] FastAPI
 - [ ] SQL
 - [ ] Full Stack CRUD Project
+
+## the use?
+
+Build production-ready full-stack applications using React, FastAPI, and SQL while documenting the complete learning journey.
  
