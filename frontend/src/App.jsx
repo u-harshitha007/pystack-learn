@@ -1,13 +1,8 @@
 import './App.css'
+import Welcome from './components/Welcome'
 
 function App() {
-  return (
-    <>
-      <h1>PyStack Learn</h1>
-      <p>Welcome Harshitha!</p>
-      <button>Start Learning</button>
-    </>
-  )
+  return <Welcome />
 }
 
 export default App
