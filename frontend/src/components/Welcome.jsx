@@ -1,11 +1,16 @@
 function Welcome() {
+  const name = "Harshitha";
+
   return (
     <>
       <h1>PyStack Learn</h1>
-      <p>Welcome Harshitha!</p>
-      <h2>day 2 of learning react</h2>
-      <p>todays topic is jsx</p>
+      <p>Welcome {name}!</p>
+
+      <h2>Learning React Day 2</h2>
+
       <button>Start Learning</button>
+
+      <p>Today's Topic: JSX</p>
     </>
   );
 }
